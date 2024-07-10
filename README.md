@@ -13,7 +13,8 @@
 # 未來更新內容
 未來我們希望可以將他如果輸入無效網址可以輸出：請輸入正確網址等相關網址。
 # 執行成功畫面 
-<img width="1235" alt="截圖 2024-07-03 下午9 10 57" src="https://github.com/hackeryu314159/ytmp3-python/assets/125031865/7f31d647-0500-4578-9a66-4b08f021139a">;
+![image](https://github.com/hackeryu314159/python-qrcode-make/assets/125031865/494b167d-81c9-4355-bdbc-d8a3ec768cde)
+
 # 引用模組
 gradio,qrcode[pil],Pillow
 # 特別感謝
