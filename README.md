@@ -7,7 +7,7 @@
 可直接進網址在裡面執行(較快):https://huggingface.co/spaces/hackeryu314159/qrcode
 # 如何執行
 可以用我們上面給的app.py執行，
-不過需要自行安裝pytube,gradio，
+不過需要自行安裝模組，
 另一個是我們直接從colab下載的也可以直接使用，
 也可以直接進我們的colab執行喔：https://colab.research.google.com/drive/1eAWY9fOHp-yvWVHZwhXSSpZxer99yQvV?usp=sharing
 # 未來更新內容
